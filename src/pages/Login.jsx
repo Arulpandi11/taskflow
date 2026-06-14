@@ -46,7 +46,7 @@ function Login() {
   return (
     <div className="auth-container">
       <div className="brand">
-        <img src="/logo.jpg" alt="logo" />
+        <img src="/logo1.png" alt="logo" />
         <h2>TaskFlow</h2>
       </div>
       <div className="auth-card">
